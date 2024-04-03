@@ -16,7 +16,7 @@ let allProducts = [
       count: 1,
     },
     { id: 5, title: "Coffee", price: 98, img: "./Images/Album 3.png", count: 1 },
-    { id: 6, title: "Shirt", price: 65.33, img: "./images/Shirt.png", count: 1 },
+    { id: 6, title: "Shirt", price: 65.33, img: "./images/Album 2.png", count: 1 },
   ];
   
   let userBasket = [];
