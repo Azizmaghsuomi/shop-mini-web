@@ -17,6 +17,8 @@ let allProducts = [
   },
 ];
 
+
+
 let userBasket = [];
 
 const shopItemsContainer = document.querySelector(".shop-items");
